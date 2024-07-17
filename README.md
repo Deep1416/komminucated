@@ -24,4 +24,4 @@ A simple React app that fetches and displays random advice from an API.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-advice-app.git
+   git clone (https://github.com/Deep1416/komminucated)
